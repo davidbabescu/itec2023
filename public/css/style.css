@@ -9,15 +9,15 @@
 }
 
 :root {
-  --primary-color: #f9b64d;
+  --primary-color: #267b39;
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', 'Times New Roman', Times, serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #333;
-  background: #f4f4f4;
+  color: #1d1c1c;
+  background: #eee9e9;
 }
 
 /* Navbar */
